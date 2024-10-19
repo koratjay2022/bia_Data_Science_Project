@@ -30,3 +30,6 @@ model.fit(X, y)
 
 # Save the trained model to a file
 dump(model, 'random_forest_model.joblib')
+
+# conda activate bia
+# python churn_main.py
